@@ -164,6 +164,7 @@ section,
 
 .container--narrow {
   max-width: 65rem;
+  word-wrap: break-word;
 }
 
 .flex-group {
